@@ -8,13 +8,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MenuViewController: UIViewController {
 
+    @IBOutlet weak var logoIMG: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        logoIMG.loadGif(name: "logoGIF")
     }
-
 
 }
 

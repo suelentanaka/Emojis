@@ -7,17 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BE5BAA9A21936AE9003F4C5E /* logoGIF.gif in Resources */ = {isa = PBXBuildFile; fileRef = BE5BAA9921936AE9003F4C5E /* logoGIF.gif */; };
+		BE8023662182432100B186E2 /* EmojisLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE8023652182432100B186E2 /* EmojisLoader.swift */; };
+		BE8A2C4121921B3A00F9CF7A /* gif.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE8A2C4021921B3A00F9CF7A /* gif.swift */; };
+		BE8A2C4B2192255500F9CF7A /* EmojisTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE8A2C4A2192255500F9CF7A /* EmojisTests.swift */; };
 		BEF63B5021745E0500F206D8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF63B4F21745E0500F206D8 /* AppDelegate.swift */; };
-		BEF63B5221745E0500F206D8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF63B5121745E0500F206D8 /* ViewController.swift */; };
+		BEF63B5221745E0500F206D8 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF63B5121745E0500F206D8 /* MenuViewController.swift */; };
 		BEF63B5521745E0500F206D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEF63B5321745E0500F206D8 /* Main.storyboard */; };
 		BEF63B5721745E0500F206D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEF63B5621745E0500F206D8 /* Assets.xcassets */; };
 		BEF63B5A21745E0500F206D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEF63B5821745E0500F206D8 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		BE8A2C4D2192255500F9CF7A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BEF63B4421745E0500F206D8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BEF63B4B21745E0500F206D8;
+			remoteInfo = Emojis;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
+		BE5BAA9921936AE9003F4C5E /* logoGIF.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = logoGIF.gif; sourceTree = "<group>"; };
+		BE8023652182432100B186E2 /* EmojisLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojisLoader.swift; sourceTree = "<group>"; };
+		BE8A2C4021921B3A00F9CF7A /* gif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gif.swift; sourceTree = "<group>"; };
+		BE8A2C482192255500F9CF7A /* EmojisTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EmojisTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE8A2C4A2192255500F9CF7A /* EmojisTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojisTests.swift; sourceTree = "<group>"; };
+		BE8A2C4C2192255500F9CF7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BEF63B4C21745E0500F206D8 /* Emojis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Emojis.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEF63B4F21745E0500F206D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BEF63B5121745E0500F206D8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BEF63B5121745E0500F206D8 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		BEF63B5421745E0500F206D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BEF63B5621745E0500F206D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BEF63B5921745E0500F206D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -25,6 +45,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		BE8A2C452192255500F9CF7A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		BEF63B4921745E0500F206D8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -35,10 +62,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BE8A2C492192255500F9CF7A /* EmojisTests */ = {
+			isa = PBXGroup;
+			children = (
+				BE8A2C4A2192255500F9CF7A /* EmojisTests.swift */,
+				BE8A2C4C2192255500F9CF7A /* Info.plist */,
+			);
+			path = EmojisTests;
+			sourceTree = "<group>";
+		};
 		BEF63B4321745E0500F206D8 = {
 			isa = PBXGroup;
 			children = (
 				BEF63B4E21745E0500F206D8 /* Emojis */,
+				BE8A2C492192255500F9CF7A /* EmojisTests */,
 				BEF63B4D21745E0500F206D8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -47,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				BEF63B4C21745E0500F206D8 /* Emojis.app */,
+				BE8A2C482192255500F9CF7A /* EmojisTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -55,11 +93,14 @@
 			isa = PBXGroup;
 			children = (
 				BEF63B4F21745E0500F206D8 /* AppDelegate.swift */,
-				BEF63B5121745E0500F206D8 /* ViewController.swift */,
+				BEF63B5121745E0500F206D8 /* MenuViewController.swift */,
 				BEF63B5321745E0500F206D8 /* Main.storyboard */,
 				BEF63B5621745E0500F206D8 /* Assets.xcassets */,
 				BEF63B5821745E0500F206D8 /* LaunchScreen.storyboard */,
 				BEF63B5B21745E0600F206D8 /* Info.plist */,
+				BE8023652182432100B186E2 /* EmojisLoader.swift */,
+				BE8A2C4021921B3A00F9CF7A /* gif.swift */,
+				BE5BAA9921936AE9003F4C5E /* logoGIF.gif */,
 			);
 			path = Emojis;
 			sourceTree = "<group>";
@@ -67,6 +108,24 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		BE8A2C472192255500F9CF7A /* EmojisTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BE8A2C4F2192255500F9CF7A /* Build configuration list for PBXNativeTarget "EmojisTests" */;
+			buildPhases = (
+				BE8A2C442192255500F9CF7A /* Sources */,
+				BE8A2C452192255500F9CF7A /* Frameworks */,
+				BE8A2C462192255500F9CF7A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BE8A2C4E2192255500F9CF7A /* PBXTargetDependency */,
+			);
+			name = EmojisTests;
+			productName = EmojisTests;
+			productReference = BE8A2C482192255500F9CF7A /* EmojisTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		BEF63B4B21745E0500F206D8 /* Emojis */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = BEF63B5E21745E0600F206D8 /* Build configuration list for PBXNativeTarget "Emojis" */;
@@ -94,6 +153,10 @@
 				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = "Suelen Tanaka";
 				TargetAttributes = {
+					BE8A2C472192255500F9CF7A = {
+						CreatedOnToolsVersion = 10.0;
+						TestTargetID = BEF63B4B21745E0500F206D8;
+					};
 					BEF63B4B21745E0500F206D8 = {
 						CreatedOnToolsVersion = 10.0;
 					};
@@ -113,15 +176,24 @@
 			projectRoot = "";
 			targets = (
 				BEF63B4B21745E0500F206D8 /* Emojis */,
+				BE8A2C472192255500F9CF7A /* EmojisTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		BE8A2C462192255500F9CF7A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		BEF63B4A21745E0500F206D8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE5BAA9A21936AE9003F4C5E /* logoGIF.gif in Resources */,
 				BEF63B5A21745E0500F206D8 /* LaunchScreen.storyboard in Resources */,
 				BEF63B5721745E0500F206D8 /* Assets.xcassets in Resources */,
 				BEF63B5521745E0500F206D8 /* Main.storyboard in Resources */,
@@ -131,16 +203,34 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		BE8A2C442192255500F9CF7A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BE8A2C4B2192255500F9CF7A /* EmojisTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		BEF63B4821745E0500F206D8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BEF63B5221745E0500F206D8 /* ViewController.swift in Sources */,
+				BEF63B5221745E0500F206D8 /* MenuViewController.swift in Sources */,
+				BE8A2C4121921B3A00F9CF7A /* gif.swift in Sources */,
 				BEF63B5021745E0500F206D8 /* AppDelegate.swift in Sources */,
+				BE8023662182432100B186E2 /* EmojisLoader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		BE8A2C4E2192255500F9CF7A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BEF63B4B21745E0500F206D8 /* Emojis */;
+			targetProxy = BE8A2C4D2192255500F9CF7A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		BEF63B5321745E0500F206D8 /* Main.storyboard */ = {
@@ -162,6 +252,46 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		BE8A2C502192255500F9CF7A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ZE47EVR7T5;
+				INFOPLIST_FILE = EmojisTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.tanakasue.EmojisTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Emojis.app/Emojis";
+			};
+			name = Debug;
+		};
+		BE8A2C512192255500F9CF7A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ZE47EVR7T5;
+				INFOPLIST_FILE = EmojisTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.tanakasue.EmojisTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Emojis.app/Emojis";
+			};
+			name = Release;
+		};
 		BEF63B5C21745E0600F206D8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -283,6 +413,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ZE47EVR7T5;
 				INFOPLIST_FILE = Emojis/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -300,6 +431,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ZE47EVR7T5;
 				INFOPLIST_FILE = Emojis/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -315,6 +447,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		BE8A2C4F2192255500F9CF7A /* Build configuration list for PBXNativeTarget "EmojisTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BE8A2C502192255500F9CF7A /* Debug */,
+				BE8A2C512192255500F9CF7A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		BEF63B4721745E0500F206D8 /* Build configuration list for PBXProject "Emojis" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
