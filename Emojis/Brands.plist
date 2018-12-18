@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>APPLE</string>
+			<key>Question</key>
+			<string>🍎</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>BURGER KING</string>
+			<key>Question</key>
+			<string>🍔🤴🏻</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>DOMINOS</string>
+			<key>Question</key>
+			<string>🀾 🁹 🀾 🁹</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>TACO BEL</string>
+			<key>Question</key>
+			<string>🌮🔔</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>KFC</string>
+			<key>Question</key>
+			<string>👴🏻🍗</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>SUBWAY</string>
+			<key>Question</key>
+			<string>🚇Ⓜ️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>STARBUCKS</string>
+			<key>Question</key>
+			<string>⭐️💵</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>🥛👸</string>
+			<key>Question</key>
+			<string>DQ</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>7 ELEVEN</string>
+			<key>Question</key>
+			<string>🕖🕚</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>TARGET</string>
+			<key>Question</key>
+			<string>🎯</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>BEST BUY</string>
+			<key>Question</key>
+			<string>🏷🛍</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>KATE SPADE</string>
+			<key>Question</key>
+			<string>👜♠️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>TOP SHOP</string>
+			<key>Question</key>
+			<string>🔝🛍</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>AMERICAN EAGLE</string>
+			<key>Question</key>
+			<string>🇺🇸🦅</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>MACDONALDS</string>
+			<key>Question</key>
+			<string>𝕄🍔🍟</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>DOVE</string>
+			<key>Question</key>
+			<string>🕊</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>XBOX</string>
+			<key>Question</key>
+			<string>𝗫📦</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>GOOGLE</string>
+			<key>Question</key>
+			<string>𝖦🔍🔍</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>NIKE</string>
+			<key>Question</key>
+			<string>✓👟</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>LACOSTE</string>
+			<key>Question</key>
+			<string>🐊👕</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>PIZZA HUT</string>
+			<key>Question</key>
+			<string>🍕⛺️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>RED BULL</string>
+			<key>Question</key>
+			<string>🔴🐃</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>APPLEBEES</string>
+			<key>Question</key>
+			<string>🍎🐝</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>SAMSUNG</string>
+			<key>Question</key>
+			<string>𝙎 🇰🇷📱📺</string>
+		</dict>
+	</array>
+</dict>
+</plist>

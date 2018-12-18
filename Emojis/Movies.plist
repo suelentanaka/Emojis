@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>ANT-MAN</string>
+			<key>Question</key>
+			<string>🐜👱‍♂️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>THE RING</string>
+			<key>Question</key>
+			<string>⃝📺😱</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>THOR</string>
+			<key>Question</key>
+			<string>🧔🏼⚡️🔨</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>IRON MAN</string>
+			<key>Question</key>
+			<string>🤖👨🏻‍💼</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>EAT PRAY LOVE</string>
+			<key>Question</key>
+			<string>🍴🙏🏻❤️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>THE LORD OF THE RINGS</string>
+			<key>Question</key>
+			<string>🧑🏻👣🧝🏻‍♂️🧙🏻‍♂️💍</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>ET</string>
+			<key>Question</key>
+			<string>👽☎️👦🏻🚲🌕</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>SUPERMAN</string>
+			<key>Question</key>
+			<string>👨🏻‍💼👓🌪✈️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>KUNG FU PANDA</string>
+			<key>Question</key>
+			<string>🥋🐼</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>AMERICAN PIE</string>
+			<key>Question</key>
+			<string>🇺🇸🥧</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>JURASSIC PARK</string>
+			<key>Question</key>
+			<string>🦖🦕🎢</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>FORREST GUMP</string>
+			<key>Question</key>
+			<string>🏃🏻‍♂️🌲🌲🌲🍫</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>STAR WARS</string>
+			<key>Question</key>
+			<string>⭐️🔦🛸🌌</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>THE MATRIX</string>
+			<key>Question</key>
+			<string>🔴🆚🔵💊🙎🏻‍♂️🕶🔢</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>CAPTAIN AMERICA</string>
+			<key>Question</key>
+			<string>🧔🏼🛡🇺🇸</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>THE LION KING</string>
+			<key>Question</key>
+			<string>🦁👑</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>TOY STORY</string>
+			<key>Question</key>
+			<string>🤠👨‍🚀🥔🦖🐷</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>SPIDERMAN</string>
+			<key>Question</key>
+			<string>🕷👦🏻</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>UP</string>
+			<key>Question</key>
+			<string>👦🏻🐶👴🏻🎈🏠</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>FINDING NEMO</string>
+			<key>Question</key>
+			<string>🐟🐠🦈</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>MONSTERS INC</string>
+			<key>Question</key>
+			<string>👧🏻👻👁💼</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>ROCKY</string>
+			<key>Question</key>
+			<string>🥊🏆</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>KILL BILL</string>
+			<key>Question</key>
+			<string>👱🏻‍♀️🗡👘⛩</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>THE TERMINATOR</string>
+			<key>Question</key>
+			<string>🙎🏻‍♂️🕶🤖👮🏻‍♂️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>SHERLOCK HOLMES</string>
+			<key>Question</key>
+			<string>🔍🕵️🏻‍♂️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>AVENGERS</string>
+			<key>Question</key>
+			<string>🧔🏼⚡️🧔🏻🤖🧔🏼🇺🇸🧔🏻💪🏻</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>DEADPOOL</string>
+			<key>Question</key>
+			<string>☠️🎱</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>BABY DRIVER</string>
+			<key>Question</key>
+			<string>👶🏼🚗</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>WONDER WOMAN</string>
+			<key>Question</key>
+			<string>👸🏻🙅🏻‍♀️🗡🛡</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>BEAUTY AND THE BEAST</string>
+			<key>Question</key>
+			<string>👸🏻❤️👹</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>WONDER</string>
+			<key>Question</key>
+			<string>👨‍🚀👦🏼👨‍👩‍👧‍👦</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>JUSTICE LEAGUE</string>
+			<key>Question</key>
+			<string>🙅🏻‍♀️🦇⚡️🔱🤖</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>IT</string>
+			<key>Question</key>
+			<string>👦🏻🤡😱</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>BLACK PANTHER</string>
+			<key>Question</key>
+			<string>⚫️🐆</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>TOMB RAIDER</string>
+			<key>Question</key>
+			<string>🏃🏻‍♀️🧗🏻‍♀️🚴🏻‍♀️🏹⚰️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>AQUAMAN</string>
+			<key>Question</key>
+			<string>🌊🔱🧔🏼</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>TITANIC</string>
+			<key>Question</key>
+			<string>🚢 💏💎</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>BATMAN</string>
+			<key>Question</key>
+			<string>🦇🙎🏻‍♂️🃏</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>NINJA TURTLES</string>
+			<key>Question</key>
+			<string>🐢🐢🐢🐢🐭</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>LIFE OF PI</string>
+			<key>Question</key>
+			<string>👳🏽‍♀️🐯🛶</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>HARRY POTTER</string>
+			<key>Question</key>
+			<string>⚡️👦🏻👧🏻👦🏻🚂🏰🧙🏻‍♂️</string>
+		</dict>
+	</array>
+</dict>
+</plist>

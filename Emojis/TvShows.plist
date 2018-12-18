@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>STRANGER THINGS</string>
+			<key>Question</key>
+			<string>👦🏻🧑🏻🧒🏻👦🏿👦🏻🚲🙃</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>BREAKING BAD</string>
+			<key>Question</key>
+			<string>👨🏻‍🔬⚗️👨🏻‍🍳🚌💰</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>SCANDAL</string>
+			<key>Question</key>
+			<string>👩🏾📸⚪️🎩🍷🍿</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>HOW TO GET AWAY WITH MURDER</string>
+			<key>Question</key>
+			<string>👩🏾‍🏫👨🏻‍💻👩🏾‍💻👩🏻‍💻👨🏻‍💻👨🏾‍💻🚫☠️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>HOUSE OF CARDS</string>
+			<key>Question</key>
+			<string>🏠🃏🃏</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>GREY&apos;S ANATOMY</string>
+			<key>Question</key>
+			<string>👩🏼‍⚕️📓🏥🛩💥😭</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>SUPERNATURAL</string>
+			<key>Question</key>
+			<string>👱‍♂️👱‍♂️📓🍔🔫🧛🏻‍♂️💀</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>SHERLOCK</string>
+			<key>Question</key>
+			<string>🕵️🏻‍♂️👨🏻‍⚕️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>GAME OF THRONES</string>
+			<key>Question</key>
+			<string>🐺❄️👸🏼🐲💀</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>ORANGE IS THE NEW BLACK</string>
+			<key>Question</key>
+			<string>🍊◼️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>FRIENDS</string>
+			<key>Question</key>
+			<string>☕️🏙👱🏻‍♀️👩🏼👩🏻🤦🏻‍♂️🙋🏻‍♂️💁🏻‍♂️</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>BLACK MIRROR</string>
+			<key>Question</key>
+			<string>🔲</string>
+		</dict>
+		<dict>
+			<key>CorrectAnswer</key>
+			<string>GLOW</string>
+			<key>Question</key>
+			<string>✨👩🏼‍🎤👊</string>
+		</dict>
+	</array>
+</dict>
+</plist>

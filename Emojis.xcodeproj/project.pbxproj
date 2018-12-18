@@ -7,15 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BE5BAA9A21936AE9003F4C5E /* logoGIF.gif in Resources */ = {isa = PBXBuildFile; fileRef = BE5BAA9921936AE9003F4C5E /* logoGIF.gif */; };
+		BE1507CE21C2D8EF00867685 /* TvShows.plist in Resources */ = {isa = PBXBuildFile; fileRef = BE1507CD21C2D8EF00867685 /* TvShows.plist */; };
+		BE1507D021C2E38200867685 /* Brands.plist in Resources */ = {isa = PBXBuildFile; fileRef = BE1507CF21C2E38200867685 /* Brands.plist */; };
+		BE1507D421C3A1AB00867685 /* TvShowsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1507D321C3A1AB00867685 /* TvShowsViewController.swift */; };
+		BE1507D621C3A3B700867685 /* BrandsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1507D521C3A3B700867685 /* BrandsViewController.swift */; };
+		BE5BAA9E2194C6FB003F4C5E /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5BAA9D2194C6FB003F4C5E /* MoviesViewController.swift */; };
+		BE62B9D521A7291E00C1F012 /* Movies.plist in Resources */ = {isa = PBXBuildFile; fileRef = BE62B9D421A7291E00C1F012 /* Movies.plist */; };
+		BE62B9DA21ADCD4400C1F012 /* CabinSketch-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE62B9D721ADCD4400C1F012 /* CabinSketch-Regular.ttf */; };
+		BE62B9DB21ADCD4400C1F012 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = BE62B9D821ADCD4400C1F012 /* OFL.txt */; };
+		BE62B9DC21ADCD4400C1F012 /* CabinSketch-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE62B9D921ADCD4400C1F012 /* CabinSketch-Bold.ttf */; };
+		BE739E7521A3502F00AC9428 /* logoGIF.gif in Resources */ = {isa = PBXBuildFile; fileRef = BE739E7421A3502F00AC9428 /* logoGIF.gif */; };
 		BE8023662182432100B186E2 /* EmojisLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE8023652182432100B186E2 /* EmojisLoader.swift */; };
 		BE8A2C4121921B3A00F9CF7A /* gif.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE8A2C4021921B3A00F9CF7A /* gif.swift */; };
 		BE8A2C4B2192255500F9CF7A /* EmojisTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE8A2C4A2192255500F9CF7A /* EmojisTests.swift */; };
+		BEE0544821AF8218000C212F /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = BEE0544621AF8218000C212F /* OFL.txt */; };
+		BEE0544921AF8218000C212F /* Monoton-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BEE0544721AF8218000C212F /* Monoton-Regular.ttf */; };
 		BEF63B5021745E0500F206D8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF63B4F21745E0500F206D8 /* AppDelegate.swift */; };
 		BEF63B5221745E0500F206D8 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF63B5121745E0500F206D8 /* MenuViewController.swift */; };
 		BEF63B5521745E0500F206D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEF63B5321745E0500F206D8 /* Main.storyboard */; };
 		BEF63B5721745E0500F206D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEF63B5621745E0500F206D8 /* Assets.xcassets */; };
-		BEF63B5A21745E0500F206D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEF63B5821745E0500F206D8 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,18 +39,28 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BE5BAA9921936AE9003F4C5E /* logoGIF.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = logoGIF.gif; sourceTree = "<group>"; };
+		BE1507CD21C2D8EF00867685 /* TvShows.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = TvShows.plist; sourceTree = "<group>"; };
+		BE1507CF21C2E38200867685 /* Brands.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Brands.plist; sourceTree = "<group>"; };
+		BE1507D321C3A1AB00867685 /* TvShowsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TvShowsViewController.swift; sourceTree = "<group>"; };
+		BE1507D521C3A3B700867685 /* BrandsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrandsViewController.swift; sourceTree = "<group>"; };
+		BE5BAA9D2194C6FB003F4C5E /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
+		BE62B9D421A7291E00C1F012 /* Movies.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Movies.plist; sourceTree = "<group>"; };
+		BE62B9D721ADCD4400C1F012 /* CabinSketch-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CabinSketch-Regular.ttf"; sourceTree = "<group>"; };
+		BE62B9D821ADCD4400C1F012 /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		BE62B9D921ADCD4400C1F012 /* CabinSketch-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CabinSketch-Bold.ttf"; sourceTree = "<group>"; };
+		BE739E7421A3502F00AC9428 /* logoGIF.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = logoGIF.gif; path = "../../../../../Dropbox/CORNERSTONE/8.Swift/Final Project/Mockup/logoGIF.gif"; sourceTree = "<group>"; };
 		BE8023652182432100B186E2 /* EmojisLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojisLoader.swift; sourceTree = "<group>"; };
 		BE8A2C4021921B3A00F9CF7A /* gif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gif.swift; sourceTree = "<group>"; };
 		BE8A2C482192255500F9CF7A /* EmojisTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EmojisTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE8A2C4A2192255500F9CF7A /* EmojisTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojisTests.swift; sourceTree = "<group>"; };
 		BE8A2C4C2192255500F9CF7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BEE0544621AF8218000C212F /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		BEE0544721AF8218000C212F /* Monoton-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Monoton-Regular.ttf"; sourceTree = "<group>"; };
 		BEF63B4C21745E0500F206D8 /* Emojis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Emojis.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEF63B4F21745E0500F206D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BEF63B5121745E0500F206D8 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		BEF63B5421745E0500F206D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BEF63B5621745E0500F206D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BEF63B5921745E0500F206D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BEF63B5B21745E0600F206D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -62,6 +82,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BE62B9D621ADCD4400C1F012 /* Cabin_Sketch_Font */ = {
+			isa = PBXGroup;
+			children = (
+				BE62B9D721ADCD4400C1F012 /* CabinSketch-Regular.ttf */,
+				BE62B9D821ADCD4400C1F012 /* OFL.txt */,
+				BE62B9D921ADCD4400C1F012 /* CabinSketch-Bold.ttf */,
+			);
+			path = Cabin_Sketch_Font;
+			sourceTree = "<group>";
+		};
+		BE739E7121A34FA700AC9428 /* GIF */ = {
+			isa = PBXGroup;
+			children = (
+				BE739E7421A3502F00AC9428 /* logoGIF.gif */,
+				BE8A2C4021921B3A00F9CF7A /* gif.swift */,
+			);
+			path = GIF;
+			sourceTree = "<group>";
+		};
 		BE8A2C492192255500F9CF7A /* EmojisTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -69,6 +108,15 @@
 				BE8A2C4C2192255500F9CF7A /* Info.plist */,
 			);
 			path = EmojisTests;
+			sourceTree = "<group>";
+		};
+		BEE0544521AF8218000C212F /* Monoton_Font */ = {
+			isa = PBXGroup;
+			children = (
+				BEE0544621AF8218000C212F /* OFL.txt */,
+				BEE0544721AF8218000C212F /* Monoton-Regular.ttf */,
+			);
+			path = Monoton_Font;
 			sourceTree = "<group>";
 		};
 		BEF63B4321745E0500F206D8 = {
@@ -92,15 +140,21 @@
 		BEF63B4E21745E0500F206D8 /* Emojis */ = {
 			isa = PBXGroup;
 			children = (
-				BEF63B4F21745E0500F206D8 /* AppDelegate.swift */,
 				BEF63B5121745E0500F206D8 /* MenuViewController.swift */,
+				BE5BAA9D2194C6FB003F4C5E /* MoviesViewController.swift */,
+				BE1507D321C3A1AB00867685 /* TvShowsViewController.swift */,
+				BE1507D521C3A3B700867685 /* BrandsViewController.swift */,
+				BE8023652182432100B186E2 /* EmojisLoader.swift */,
 				BEF63B5321745E0500F206D8 /* Main.storyboard */,
 				BEF63B5621745E0500F206D8 /* Assets.xcassets */,
-				BEF63B5821745E0500F206D8 /* LaunchScreen.storyboard */,
+				BE739E7121A34FA700AC9428 /* GIF */,
+				BE62B9D421A7291E00C1F012 /* Movies.plist */,
+				BE1507CD21C2D8EF00867685 /* TvShows.plist */,
+				BE1507CF21C2E38200867685 /* Brands.plist */,
+				BEF63B4F21745E0500F206D8 /* AppDelegate.swift */,
 				BEF63B5B21745E0600F206D8 /* Info.plist */,
-				BE8023652182432100B186E2 /* EmojisLoader.swift */,
-				BE8A2C4021921B3A00F9CF7A /* gif.swift */,
-				BE5BAA9921936AE9003F4C5E /* logoGIF.gif */,
+				BEE0544521AF8218000C212F /* Monoton_Font */,
+				BE62B9D621ADCD4400C1F012 /* Cabin_Sketch_Font */,
 			);
 			path = Emojis;
 			sourceTree = "<group>";
@@ -193,10 +247,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BE5BAA9A21936AE9003F4C5E /* logoGIF.gif in Resources */,
-				BEF63B5A21745E0500F206D8 /* LaunchScreen.storyboard in Resources */,
+				BE62B9DB21ADCD4400C1F012 /* OFL.txt in Resources */,
 				BEF63B5721745E0500F206D8 /* Assets.xcassets in Resources */,
+				BE739E7521A3502F00AC9428 /* logoGIF.gif in Resources */,
+				BEE0544921AF8218000C212F /* Monoton-Regular.ttf in Resources */,
+				BE1507D021C2E38200867685 /* Brands.plist in Resources */,
+				BE62B9DA21ADCD4400C1F012 /* CabinSketch-Regular.ttf in Resources */,
+				BE62B9DC21ADCD4400C1F012 /* CabinSketch-Bold.ttf in Resources */,
+				BE62B9D521A7291E00C1F012 /* Movies.plist in Resources */,
+				BEE0544821AF8218000C212F /* OFL.txt in Resources */,
 				BEF63B5521745E0500F206D8 /* Main.storyboard in Resources */,
+				BE1507CE21C2D8EF00867685 /* TvShows.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -215,10 +276,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE5BAA9E2194C6FB003F4C5E /* MoviesViewController.swift in Sources */,
+				BE1507D421C3A1AB00867685 /* TvShowsViewController.swift in Sources */,
 				BEF63B5221745E0500F206D8 /* MenuViewController.swift in Sources */,
 				BE8A2C4121921B3A00F9CF7A /* gif.swift in Sources */,
 				BEF63B5021745E0500F206D8 /* AppDelegate.swift in Sources */,
 				BE8023662182432100B186E2 /* EmojisLoader.swift in Sources */,
+				BE1507D621C3A3B700867685 /* BrandsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,14 +303,6 @@
 				BEF63B5421745E0500F206D8 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		BEF63B5821745E0500F206D8 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				BEF63B5921745E0500F206D8 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
